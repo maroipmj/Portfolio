@@ -236,6 +236,13 @@ span {
 }
 
 /* SERVICES */
+
+.heading-services{
+    text-align: center;
+    font-size: 4.5rem;
+    margin-bottom: 3rem;
+}
+
 .services h3 {
     margin-bottom: 4rem;
 }
@@ -278,6 +285,11 @@ span {
     margin: 5rem 0 3rem;
 }
 
+.heading-project{
+    text-align: center;
+    font-size: 4.5rem;
+    margin-bottom: 3rem;
+}
 .portfolio {
     background: var(--snd-bg-color);
 }
@@ -320,7 +332,6 @@ span {
     height: 225px;
     max-width: 400px;
     border-radius: 12px;
-    
 }
 .portfolio-layer {
     position: absolute;
